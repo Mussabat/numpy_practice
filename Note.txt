@@ -1,0 +1,15 @@
+Numpy Stands for Numerical python
+A python package for scientific computing
+Like 
+1. Discrete Fourier Transformation
+2.Basic linear Algebra
+
+Numpy is more useful then list
+because
+1.Fast (as numpy library is build in C lang)
+2.It needs less memory
+3.The core of the NumPy package is ndarray object
+
+
+
+
